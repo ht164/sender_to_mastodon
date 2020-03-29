@@ -1,0 +1,17 @@
+{
+  "name": "sender_to_mastodon",
+  "version": "0.0.1",
+  "description": "",
+  "main": "start.js",
+  "scripts": {
+    "start": "node start.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ht164",
+  "license": "MIT",
+  "dependencies": {
+    "masto": "^3.0.0",
+    "node-fetch": "^2.6.0",
+    "twitter": "^1.7.1"
+  }
+}
